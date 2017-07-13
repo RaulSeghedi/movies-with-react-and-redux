@@ -1,0 +1,16 @@
+.movieDetail {
+    border: groove;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.title {
+    height: auto;
+    width: auto;
+    color: black;
+}
+
+.details {
+    color: grey;
+    font-size: 75%;
+}

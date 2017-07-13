@@ -1,0 +1,7 @@
+li{
+    border: groove;
+    width: 250px;
+    border-radius: 10px;
+    list-style: none;
+    cursor: pointer;
+}
